@@ -20,7 +20,7 @@ if not st.session_state["logado"]:
     senha = st.text_input("Digite a nossa senha:", type="password")
 
     if st.button("Entrar"):
-        if nome_usuario == "Maitê" and senha == "eu te amo":
+        if nome_usuario == "Maitê" and senha == "GATITO":
             st.session_state["logado"] = True
             st.rerun()
         else:
