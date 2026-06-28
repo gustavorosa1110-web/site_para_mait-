@@ -20,7 +20,7 @@ if not st.session_state["logado"]:
     senha = st.text_input("Digite a nossa senha:", type="password")
 
     if st.button("Entrar"):
-        if nome_usuario == "admin" and senha == "1234":
+        if nome_usuario == "Maitê" and senha == "eu te amo":
             st.session_state["logado"] = True
             st.rerun()
         else:
@@ -41,10 +41,10 @@ else:
         st.subheader("Para a pessoa mais especial do mundo... 💕")
         
         st.info("""
-        **Querido(a),**
+        **Ma,**
 
         Criar este site foi a forma que encontrei de usar a tecnologia para te dizer o quanto você é importante para mim. 
-        Cada linha de código aqui foi escrita pensando no seu sorriso. 
+        Cada linha de código aqui foi escrita pensando no quanto voc~e me faz feliz. 
         
         Obrigado(a) por ser essa pessoa incrível e por fazer os meus dias muito mais felizes. 
         Eu amo você hoje, amanhã e sempre! 🌹✨
