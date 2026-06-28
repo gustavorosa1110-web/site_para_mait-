@@ -10,7 +10,7 @@ if "logado" not in st.session_state:
 if "mostrar_surpresa" not in st.session_state:
     st.session_state["mostrar_surpresa"] = False
 
-st.title("Olá! Bem-vindo ao nosso site 👋")
+st.title("Olá! Seja bem-vinda ao nosso cantinho 🌹")
 
 # --- TELA DE LOGIN ---
 if not st.session_state["logado"]:
