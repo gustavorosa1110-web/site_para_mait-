@@ -44,10 +44,10 @@ else:
         **Ma,**
 
         Criar este site foi a forma que encontrei de usar a tecnologia para te dizer o quanto você é importante para mim. 
-        Cada linha de código aqui foi escrita pensando no quanto voc~e me faz feliz. 
+        Cada linha de código aqui foi escrita pensando no quanto você me faz feliz. 
         
-        Obrigado(a) por ser essa pessoa incrível e por fazer os meus dias muito mais felizes. 
-        Eu amo você hoje, amanhã e sempre! 🌹✨
+        Obrigado por ser essa pessoa incrível e por fazer os meus dias muito mais felizes. 
+        Eu amo você hoje, amanhã e pra sempre! 🌹✨
         """)
         
         if st.button("Clique aqui para ver o meu amor por você"):
